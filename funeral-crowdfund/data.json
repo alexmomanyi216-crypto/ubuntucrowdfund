@@ -1,0 +1,49 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "name": "Serene Hearse Co.",
+      "logoUrl": "https://via.placeholder.com/64x64?text=H",
+      "serviceType": "Hearse",
+      "priceRange": "$$ - $$$",
+      "location": "Nairobi",
+      "phone": "+254700000001",
+      "profileUrl": "#"
+    },
+    {
+      "id": 2,
+      "name": "Evergreen Caskets",
+      "logoUrl": "https://via.placeholder.com/64x64?text=C",
+      "serviceType": "Casket",
+      "priceRange": "$ - $$",
+      "location": "Mombasa",
+      "phone": "+254700000002",
+      "profileUrl": "#"
+    },
+    {
+      "id": 3,
+      "name": "Comfort Catering",
+      "logoUrl": "https://via.placeholder.com/64x64?text=K",
+      "serviceType": "Catering",
+      "priceRange": "$$ - $$$",
+      "location": "Kisumu",
+      "phone": "+254700000003",
+      "profileUrl": "#"
+    },
+    {
+      "id": 4,
+      "name": "Grace Flowers",
+      "logoUrl": "https://via.placeholder.com/64x64?text=F",
+      "serviceType": "Flowers",
+      "priceRange": "$ - $$",
+      "location": "Nakuru",
+      "phone": "+254700000004",
+      "profileUrl": "#"
+    }
+  ],
+  "donors": [],
+  "campaign": {
+    "goal": 100000,
+    "raised": 23500
+  }
+}
